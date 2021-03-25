@@ -3,7 +3,7 @@ import requests
 import json
 import time
 
-API_KEY = 'AIzaSyD-qE7PtKfqSxo9Q85Frek7UkOSPFoS7mg'
+
 RADIUS = 10000
 CITIES = {'San Francisco': '37.7749,-122.4194'}
 
